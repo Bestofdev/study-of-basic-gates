@@ -80,7 +80,7 @@ assign f5=~f2;
 assign f6=a^b;
 assign f7=~(a^b);
 endmodule
- 
+     
 ```
 
 **Logic symbol & Truthtable**
